@@ -2,9 +2,6 @@
   Portfolio Website <br/>
   <a href="http://www.portfolios.tech/FerielHaouala" target="_blank">Feriel HAOUALA</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="src/Assets/readme.png" />
-</div>
 
 <br/>
 
