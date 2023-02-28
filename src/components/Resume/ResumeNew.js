@@ -2,17 +2,16 @@ import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import CV from "../../Assets/../Assets/ResumeFerielHAOUALA.pdf";
 
-import pdf from "../../Assets/../Assets/Soumyajit_Behera-BIT_MESRA.pdf";
+import pdf from "../../Assets/../Assets/ResumeFerielHAOUALA.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://publuu.com/flip-book/92113/254578/page/1";
-
+  "https://github.com/FerielHaouala/Resume/blob/7f6f0dd71e331c3a4daf7373771a8f7a5e4b4570/src/Assets/ResumeFerielHAOUALA.pdf"
+ 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
 
