@@ -4,20 +4,7 @@ import hack1 from "../../Assets/Metaverse.jpg";
 import hack2 from "../../Assets/Jet'impact.jpg";
 import hack3 from "../../Assets/Cybersecurity.jpg";
 import hack4 from "../../Assets/TICAD.jpg";
-import { CgCPlusPlus } from "react-icons/cg";
-import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiPython,
-  DiGit,
-} from "react-icons/di";
-import {
-  SiPytorch,
-  SiFirebase,
-  SiNextdotjs,
-} from "react-icons/si";
+
 
 function Techstack() {
   return (

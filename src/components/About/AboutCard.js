@@ -16,14 +16,17 @@ function AboutCard() {
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
-            <li className="about-activity">
-              <ImPointRight /> Journaling
+          <li className="about-activity">
+              <ImPointRight /> Camping
             </li>
             <li className="about-activity">
               <ImPointRight /> Watching Anime 
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Puzzles
             </li>
           </ul>
 
