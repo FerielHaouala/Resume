@@ -13,9 +13,8 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 
 
 
-const resumeLink =
-  "https://cdn.jsdelivr.net/gh/FerielHaouala/Resume@532994b2487d9867822bf2df4ac7633e23da4507/src/Assets/ResumeFerielHAOUALA.pdf"
- 
+const resumeLink = pdf 
+  
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
 
