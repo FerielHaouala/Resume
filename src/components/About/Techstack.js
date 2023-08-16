@@ -18,6 +18,9 @@ function Techstack() {
         <blockquote className="blockquote mb-0">
           <br />
           <p>Metaverse Tunisian Summit hackathon</p>
+          <p> First Price </p>
+          <p>
+            We're combining virtual reality, blockchain, and computer vision to create an amazing solution with endless possibilities</p>
           <br />
         </blockquote>
       </Col>
@@ -30,6 +33,9 @@ function Techstack() {
         <blockquote className="blockquote mb-0">
           <br />
           <p>Cybersecurity & SMART FACTORY Hackathon</p>
+          <p> Third place </p>
+          <p> Our cybersecurity solution empowers Industry 4.0 through decentralized approaches. Partnering with tech leaders, we unleash limitless potential.</p>
+
           <br />
         </blockquote>
       </Col>
@@ -39,9 +45,11 @@ function Techstack() {
           alt="TICAD 8 Innovation «HACK AFRICA AUTOMOTIVE»."
           style={{ maxHeight: "450px", maxwidth: "450px" }}
         />
-         <blockquote className="blockquote mb-0">
+        <blockquote className="blockquote mb-0">
           <br />
           <p>TICAD 8 Innovation «HACK AFRICA AUTOMOTIVE»</p>
+          <p> First Price </p>
+          <p> We developed a smart troubleshooting app endorsed by the Industrial Minister and Visteon Electronics. It transforms electronics with deep technology advancements</p>
           <br />
         </blockquote>
       </Col>
@@ -51,9 +59,11 @@ function Techstack() {
           alt="Jet'impact"
           style={{ maxHeight: "450px", maxwidth: "450px" }}
         />
-         <blockquote className="blockquote mb-0">
+        <blockquote className="blockquote mb-0">
           <br />
           <p>Jet'impact</p>
+          <p> First Price </p>
+          <p> Innovative startup leveraging 17 corporate social responsibilities for holistic impact, fostering sustainability, equity, and community well-being.</p>
           <br />
         </blockquote>
       </Col>
