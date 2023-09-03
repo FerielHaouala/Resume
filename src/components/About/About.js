@@ -34,15 +34,16 @@ function About() {
           </Col>
         </Row>
         <h1 className="project-heading">
+          <strong className="purple">Education</strong> 
+        </h1>
+        <Toolstack />
+        <h1 className="project-heading">
         <strong className="purple">Hackhathon </strong> Experience 
         </h1>
 
         <Techstack />
 
-        <h1 className="project-heading">
-          <strong className="purple">Education</strong> 
-        </h1>
-        <Toolstack />
+       
       </Container>
     </Container>
   );
