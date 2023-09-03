@@ -29,7 +29,7 @@ function Home2() {
               <br /> <br />
               Adept at learning quickly, <i>
                 <b className="purple"> problem-solving </b>
-              </i>,  , and dedicated to contributing to the protection of digital assets. Seeking entry-level opportunities to kickstart a promising journey in the field.
+              </i>,  and dedicated to contributing to the protection of digital assets. Seeking entry-level opportunities to kickstart a promising journey in the field.
               <br />
               I am well-suited to contribute to the success of an organization and develop my abilities in a new professional experience.
               <br /> <br />
