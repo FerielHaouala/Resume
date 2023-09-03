@@ -20,17 +20,17 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I fell in love with <i>
-                <b className="purple"> Leadership </b>
+                <b className="purple"> CyberSecurity </b>
               </i>
-                and I have at least learnt
+              and I have at least learnt
               something by experience, I think… 🤷‍♂️
               <br />
-              <br />I thrive on new challenges and am eager to take initiative and foster collaboration across departments.
+              <br />Eager to embark on a career in cybersecurity and apply academic knowledge to real-world challenges.
               <br /> <br />
-              With a strong ability to manage tech teams and ensure effective communication among stakeholders using Lean-Agile methodologies like
-              <i>
-                <b className="purple"> Scrum </b>
-              </i>, <br /> <br />
+              Adept at learning quickly, <i>
+                <b className="purple"> problem-solving </b>
+              </i>,  , and dedicated to contributing to the protection of digital assets. Seeking entry-level opportunities to kickstart a promising journey in the field.
+              <br />
               I am well-suited to contribute to the success of an organization and develop my abilities in a new professional experience.
               <br /> <br />
               In the long term, I aspire to coordinate the introduction of new technologies to benefit my country.
